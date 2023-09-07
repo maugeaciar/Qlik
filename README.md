@@ -1,1 +1,1 @@
-# Qlik
+Este repositorio contiene el proyecto final del bootcamp de Análisis de Datos de JupiDigital, dónde utilicé Qlik para desarrollar una App sobre los Juegos Olímpicos. Está enmarcado dentro de una oportunidad de negocio para algún servicio de streaming o generador de contenido sobre los Juegos, de carácter nacional (Argentino). 
